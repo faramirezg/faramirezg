@@ -2,7 +2,7 @@
 
 - :man_technologist: I'm Information and Management Control Engineer from the University of Chile
 - :school: I have been working on research on the educational system in Chile for more than 10 years!
-- :page_with_curl: I generally publish research at the [Escuela de Gobierno](https://gobierno.uc.cl/) of the [Pontificia Universidad Católica de Chile](https://www.uc.cl/)
+- :page_with_curl: I'm a researcher at the [Escuela de Gobierno](https://gobierno.uc.cl/) of the [Pontificia Universidad Católica de Chile](https://www.uc.cl/)
 - :man_office_worker: I’m currently working on [Consejo Nacional de Educación de Chile](https://cned.cl/)
 - :books: Previously, I worked at the [Centro de Estudios Mineduc](https://centroestudios.mineduc.cl/)
 - 💬 Ask me about national education system and available data!
